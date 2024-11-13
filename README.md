@@ -9,7 +9,7 @@
 - 🎓 &nbsp; B.Tech Graduate in Computer Science and Engineer from Christ College of Engineering.
 
 
-- 🌱 &nbsp; Learning more about Web Development.
+- 🌱 &nbsp; Learning more about Automation Testing
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -17,6 +17,14 @@
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+
+ ![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=Selenium&logoColor=43B02A)
+ ![Cucumber](https://img.shields.io/badge/-Cucumber-333333?style=flat&logo=Cucumber&logoColor=23D96C)
+![TestNG](https://img.shields.io/badge/-TestNG-333333?style=flat&logo=TestNG&logoColor=FF5722)
+![Rest Assured](https://img.shields.io/badge/-Rest%20Assured-333333?style=flat&logo=Rest-Assured&logoColor=2AAE1C)
+![Karate](https://img.shields.io/badge/-Karate-333333?style=flat&logo=Karate&logoColor=F06767)
+
+
 
 
 
