@@ -14,7 +14,7 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 ### 💻 Programming Languages
-![Java](https://badge-maker.vercel.app/api/badge?text=Java&color=007396&icon=java)
+![Java](https://badgen.net/badge/Java/Available/007396?icon=github)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
 
